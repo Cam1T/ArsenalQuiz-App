@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Before Ian Wright broke the record in 1997, who was Arsenal’s all-time leading goalscorer?",
+    "answers": [
+      "Cliff Bastin",
+      "Jimmy Brain",
+      "John Radford"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Cliff Bastin was the top scorer before Ian Wright."
+  },
+  {
+    "question": "Who beat Arsenal at Highbury on the opening day of the first Premier League season?",
+    "answers": [
+      "Bolton",
+      "Norwich City",
+      "Leeds"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Norwich City defeated Arsenal 4-2."
+  },
+  {
+    "question": "Where did Arsenal finish in the league table in 1992-1993?",
+    "answers": [
+      "10th",
+      "7th",
+      "8th"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Arsenal Finished 10th Place."
+  },
+  {
+    "question": "Legendary manager George Graham was sacked by Arsenal in February, 1995. Who took over as caretaker until the end of the season?",
+    "answers": [
+      "Bruce Rioch",
+      "Stewart Houston",
+      "Pat Rice"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Stewart Houston Became the caretacker manager following the sacking of George Graham."
+  },
+  {
+    "question": "Which team did Arsenal face in Arsene Wenger’s first match in charge?",
+    "answers": [
+      "Aston Villa",
+      "Derby County",
+      "BlackBurn Rovers"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Blackburn Rovers was the team Arsenal faced in Arsene Wenger's first match in charge?"
+  },
+  {
+    "question": "Who was the club’s leading goalscorer in the historic 1997-1998 season?",
+    "answers": [
+      "Ian Wright",
+      "Nicolas Anelka",
+      "Denis BergKamp"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": " Dennis BergKamp was the leading GoalScorer in the historic 1997-1998 Season"
+  },
+  {
+    "question": "In the 2000-2001 campaign, which player was sent off in Arsenal’s first two league games?",
+    "answers": [
+      "Patrick Viera",
+      "Nwankwo Kanu",
+      "Ray Parlour"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Patrick Viera was the player sent off in the first two league games"
+  },
+  {
+    "question": "Who beat Arsenal 6-1 in February 2001?",
+    "answers": [
+      "Chealsea",
+      "Liverpool",
+      "Manchester United"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Manchester United beat Arsenal 6-1"
+  },
+  {
+    "question": "Which two club stalwarts retired at the end of the 2001-2002 season?",
+    "answers": [
+      "Lee Dixon and Tony Adams",
+      "Martin Keown and Tony Adams",
+      "David Seaman and Tony Adams"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Lee Dixon and Tony Adams retired at the end of the 2001-2002 season"
+  },
+  {
+    "question": "At which ground did Arsenal secure the Premier League title at the end of the 2003-2004 season?",
+    "answers": [
+      "Stamford Bridge",
+      "Old Trafford",
+      "White Hart Lane"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "White Hart Lane is the correct answer"
+  },
+  {
+    "question": "Who scored the opening goal in Arsenal’s 2006 Champions League final against Barcelona?",
+    "answers": [
+      "Ljungberg",
+      "Thierry Henry",
+      "Sol Cambell"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Sol Cambell scored a thrashing header to give arsenal the lead"
+  },
+  {
+    "question": "Which club did Robert Pires join when he left Arsenal in the summer of 2006?",
+    "answers": [
+      "Sevilla",
+      "Villarreal",
+      "Valencia"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Robert Pires Joined Villarreal when he left Arsenal in the summer of 2006"
+  },
+  {
+    "question": "Who beat Arsenal 2-1 in the FA Cup semi-final in the 2008-2009 season?",
+    "answers": [
+      "Chelsea",
+      "Manchester City",
+      "Birmingham City"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Chelsea is the correct answer!"
+  },
+  {
+    "question": "An ex-Arsenal player caused controversy when he celebrated in front of his former club’s fans in September, 2009?",
+    "answers": [
+      "Emmanuel Adebayor",
+      "Denilson",
+      "Nicklas Bendtner"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Emmanuel Adebeyor caused quite a hiccup due to his celebration"
+  },
+  {
+    "question": "Who scored two late goals in a 2-0 victory over Cardiff City in January, 2014?",
+    "answers": [
+      "Podolski & Giroud",
+      "Santi Cazorla & Podolski",
+      "Nicklas Bendtner & Theo Walcott"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Nicklas Bendtner & Theo Walcott Scored the winning goals"
+  },
+  {
+    "question": "Who were Arsenal’s opponents in Unai Emery’s first game in charge?",
+    "answers": [
+      "Manchester City",
+      "Newcastle",
+      "Burnley"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Correct answer is Manchester City"
+  },
+  {
+    "question": "How many times have Arsenal FC been the highest Premier League goalscorers for the season?",
+    "answers": [
+      "Four",
+      "Two",
+      "Three"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Arsenal FC club has were the highest Premier League goalscorers three times: Season 2002-03 (85 goals), Season 2003-04 (73 goals) and Season 2004-05 (87 goals)"
+  },
+  {
+    "question": "How many different Arsenal footballers have won the PFA Footballer of the Year Awards?",
+    "answers": [
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Four different Arsenal footballers have won the PFA Footballer of the Year Awards. Liam Brady (1979), Dennis Bergkamp (1998), Thiery Henry (2003 & 2004) and Robin Van Persie (2012)"
+  },
+  {
+    "question": "When was Arsenal Football Club founded?",
+    "answers": [
+      "1884",
+      "1886",
+      "1885"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Arsenal football club was founded in 1886"
+  },
+  {
+    "question": "Which player scored the first Premier League goal for Arsenal at the new Emirates Stadium?",
+    "answers": [
+      "Cesc Fàbregas",
+      "Gilberto Silva",
+      "Tomáš Rosický"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Gilberto is correct, He was Arsenal's only goalscorer for that particular match. It was a 1-1 draw with Aston Villa."
+  },
+  {
+    "question": "What position did Arsenal finish in 2018-19 Premier League season?",
+    "answers": [
+      "5th",
+      "6th",
+      "7th"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Arsenal finished 5th place that season"
+  },
+  {
+    "question": "Who was Arsenal's top Premiership scorer in the 2013-14 season?",
+    "answers": [
+      "Olivier Giroud",
+      "Santi Cazorla",
+      "Lucas Podolski"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Olivier Giroud (with 16)"
+  },
+  {
+    "question": "The first seat in the new Emirates Stadium was ceremonially installed on 13 March 2006 by which recently signed Arsenal midfielder?",
+    "answers": [
+      "Van Persie",
+      "Denislon",
+      "Abou Diaby"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Abou Diaby"
+  },
+  {
+    "question": "What is Arsene Wenger's nickname?",
+    "answers": [
+      "Wengie",
+      "The Professor",
+      "The Gaffer"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Professor"
+  },
+  {
+    "question": "Who became Arsenal's youngest ever goalscorer in December 2003?",
+    "answers": [
+      "Jerome Thomos",
+      "Cesc Fabergas",
+      "Ryan Smith"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Cesc Fabergas became Arsenal's youngest ever goalscorer in December 2003"
+  }
+]
